@@ -1,2 +1,3 @@
-# hello-world
-My first repository
+# Hello Humans & Robots
+Welcome to my first repository!
+
